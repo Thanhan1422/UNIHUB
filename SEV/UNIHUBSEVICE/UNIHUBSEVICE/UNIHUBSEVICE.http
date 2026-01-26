@@ -1,0 +1,6 @@
+@UNIHUBSEVICE_HostAddress = http://localhost:5227
+
+GET {{UNIHUBSEVICE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

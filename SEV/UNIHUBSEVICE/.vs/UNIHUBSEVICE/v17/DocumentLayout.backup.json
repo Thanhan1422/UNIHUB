@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|a:\\unihub\\sev\\unihubsevice\\unihubsevice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|solutionrelative:unihubsevice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|a:\\unihub\\sev\\unihubsevice\\unihubsevice\\unihubsevice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|solutionrelative:unihubsevice\\unihubsevice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|a:\\unihub\\sev\\unihubsevice\\unihubsevice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|solutionrelative:unihubsevice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|a:\\unihub\\sev\\unihubsevice\\unihubsevice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C57DB60-DC68-49FE-9347-13A6F0815223}|UNIHUBSEVICE\\UNIHUBSEVICE.csproj|solutionrelative:unihubsevice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UNIHUBSEVICE.csproj",
+              "DocumentMoniker": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
+              "RelativeDocumentMoniker": "UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
+              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
+              "RelativeToolTip": "UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T15:54:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\appsettings.json",
+              "RelativeDocumentMoniker": "UNIHUBSEVICE\\appsettings.json",
+              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\appsettings.json",
+              "RelativeToolTip": "UNIHUBSEVICE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T15:51:54.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Program.cs",
+              "RelativeDocumentMoniker": "UNIHUBSEVICE\\Program.cs",
+              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Program.cs",
+              "RelativeToolTip": "UNIHUBSEVICE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:50:23.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "UNIHUBSEVICE\\Controllers\\StudentsController.cs",
+              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "UNIHUBSEVICE\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:47:32.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
