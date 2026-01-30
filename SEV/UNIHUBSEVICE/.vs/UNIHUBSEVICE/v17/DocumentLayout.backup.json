@@ -36,10 +36,9 @@
               "RelativeDocumentMoniker": "UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
               "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
               "RelativeToolTip": "UNIHUBSEVICE\\UNIHUBSEVICE.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-26T15:54:32.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T15:54:32.865Z"
             },
             {
               "$type": "Document",
@@ -71,9 +70,9 @@
               "Title": "StudentsController.cs",
               "DocumentMoniker": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "UNIHUBSEVICE\\Controllers\\StudentsController.cs",
-              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "UNIHUBSEVICE\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ToolTip": "A:\\UNIHUB\\SEV\\UNIHUBSEVICE\\UNIHUBSEVICE\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "UNIHUBSEVICE\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T15:47:32.035Z",
               "EditorCaption": ""

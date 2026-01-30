@@ -1,0 +1,18 @@
+# ===== .NET backend (SEV) =====
+SEV/bin/
+SEV/obj/
+SEV/.vs/
+SEV/appsettings.Development.json
+
+# ===== Flutter / Android (ADROI) =====
+ADROI/build/
+ADROI/.dart_tool/
+ADROI/.idea/
+ADROI/android/.gradle/
+ADROI/android/local.properties
+ADROI/ios/Flutter/Generated.xcconfig
+
+# ===== Common =====
+.env
+.DS_Store
+Thumbs.db

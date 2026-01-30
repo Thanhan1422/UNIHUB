@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "StudentsController",
+    "Method": "Ping",
+    "RelativePath": "api/Students/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
